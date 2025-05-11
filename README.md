@@ -32,7 +32,7 @@ This project is a custom-built chess game implemented in Python using the Tkinte
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/modified-chess-game.git
+    git clone https://github.com/Shah-Saad/AI_Project.git
     cd modified-chess-game
     ```
 
@@ -51,9 +51,8 @@ This project is a custom-built chess game implemented in Python using the Tkinte
 
 ## Demonstration
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the demo](https://drive.google.com/file/d/1Rm7Sd9kcwlyC248KlrRa4haugNNGJano/view?usp=drive_link)
 
-> Replace `YOUR_VIDEO_ID` with your actual YouTube video ID to link a demo.
 
 ## Future Improvements
 
